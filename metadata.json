@@ -1,0 +1,6 @@
+{
+  "name": "SkyHub Minecraft Dashboard",
+  "description": "Full Minecraft server control panel tailored for yupra.net and Cloudflare Tunnels (dashboard.skyhub.my.id). Includes console, world settings, mod manager, zip export, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
